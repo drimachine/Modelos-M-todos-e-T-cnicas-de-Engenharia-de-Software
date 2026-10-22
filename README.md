@@ -22,3 +22,6 @@ O projeto contempla os requisitos, o projeto do sistema, a construção das func
 
 **Pedro Henrique Esperança de Oliveira**
 
+
+Obs: Os commits foram feitos da minha conta do trabalho por questão de logistica. o contribuitor name é pedrooliveira-prog
+
